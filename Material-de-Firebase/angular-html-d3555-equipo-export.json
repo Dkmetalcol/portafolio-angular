@@ -1,0 +1,19 @@
+[ {
+  "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+  "nombre" : "Danny Garzón",
+  "subtitulo" : "Instructor",
+  "twitter" : "@dkmetalcol",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-d3555.appspot.com/o/team-1.jpg?alt=media&token=53062e01-0ad8-42d7-b890-81fb181b79a3"
+}, {
+  "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+  "nombre" : "Kelly Patiño",
+  "subtitulo" : "Contadora",
+  "twitter" : "@kellyPatiño",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-d3555.appspot.com/o/team-2.jpg?alt=media&token=d8f5dd6f-fc1a-477b-9925-b9e58a674deb"
+}, {
+  "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "nombre" : "Stewart Garzón",
+  "subtitulo" : "Master en Marketing",
+  "twitter" : "@StewartGarzon",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-d3555.appspot.com/o/team-3.jpg?alt=media&token=90829da8-9193-4757-a644-efae99bc7d97"
+} ]
